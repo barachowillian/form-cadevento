@@ -1,6 +1,5 @@
-# form-cadevento
 
-# PROJETO CADECOMMERCE 
+# PROJETO CADEVENTO
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento Web ministrada pelo professor Leonardo Rocha. 
  
 ## Ìndice

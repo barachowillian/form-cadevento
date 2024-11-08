@@ -4,7 +4,6 @@
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento Web ministrada pelo professor Leonardo Rocha. 
  
 ## Ìndice
- 
 * [Descrição](#descrição)
 * [Tecnologias](#tecnologia)
 * [Referencia](#referência)
@@ -23,7 +22,7 @@ O projeto consiste em uma tela de cadastro para um evento, onde você seleciona 
 * `label` : Ela especifica qual o “rótulo” do input (a que se refere o input, como, por exemplo, envolvê-la em um texto “Nome completo”), e ajuda na experiência do usuário e usuária durante a utilização e preenchimento do formulário.
 
 
-* `form`: O elemento <form> é o elemento que formalmente define o formulário e os atributos que definem a maneira como esse formulário se comporta. 
+* `form`: O elemento &lt;form&gt; é o elemento que formalmente define o formulário e os atributos que definem a maneira como esse formulário se comporta. 
 
 Veja a imagem a seguir onde sera possivel ver os elementos mencionados acima: 
 
@@ -35,7 +34,7 @@ Veja a imagem a seguir onde sera possivel ver os elementos mencionados acima:
 
 * `button`-representa um botão clicável.
 
-* `Select` - O elemento HTML select (<select>) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento <option>.
+* `Select` - O elemento HTML select (&lt;select&gt;) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento &lt;option&gt;
 
 Veja a imagem a seguir onde é possivel visualizar os elementos mencionados acima:
 
@@ -84,6 +83,8 @@ A seguir sera possivel visualizar os elementos mencionados acima:
 ### Resultado do projeto
 
 Veja a seguir a imagem onde é possivel ver o resultado final do projeto:
+
+![img](img/resultadofinal.png)
 
  
 ## Tecnologia

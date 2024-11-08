@@ -13,7 +13,7 @@ O projeto consiste em uma tela de cadastro para um evento, onde você seleciona 
  
 
 #### Arquivo HTML
-  A seguir será possivel visualizar os elementos usados na estrutura HTML do arquivo index.html, endereco.html e final.html:
+  A seguir será possivel visualizar os elementos usados na estrutura HTML do arquivo index.html.
   
 
 * `Main`: Entende-se como conteúdo principal aquele relacionado diretamente com o tópico central da página ou com a funcionalidade central da aplicação.
